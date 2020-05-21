@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Blog</title>
+    <link>https://ppoterala.github.io/blog/</link>
+    <description>Recent content on Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 14:08:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://ppoterala.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Favorite Books</title>
+      <link>https://ppoterala.github.io/blog/posts/favorite-books/</link>
+      <pubDate>Thu, 21 May 2020 18:54:08 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/favorite-books/</guid>
+      <description>Etymology Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare eu mauris ut rutrum. Vivamus elementum viverra placerat. Nulla semper id tortor sed lacinia. Phasellus auctor odio eget augue sagittis, at iaculis sem convallis.</description>
+    </item>
+    
+    <item>
+      <title>Espresso Crema</title>
+      <link>https://ppoterala.github.io/blog/posts/espresso-crema/</link>
+      <pubDate>Thu, 21 May 2020 17:25:05 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/espresso-crema/</guid>
+      <description>History Grinder beans, doppio, half and half whipped crema at trifecta sweet chicory, galão in grinder redeye plunger pot at caramelization. Turkish aroma froth, et as froth skinny percolator sweet cappuccino java sugar, est and mazagran extraction cream coffee aromatic lungo mazagran.</description>
+    </item>
+    
+    <item>
+      <title>Cheesecake Wafer</title>
+      <link>https://ppoterala.github.io/blog/posts/cheesecake-wafer/</link>
+      <pubDate>Thu, 21 May 2020 16:58:23 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/cheesecake-wafer/</guid>
+      <description>Introduction Cheesecake wafer fruitcake fruitcake lemon drops. Lemon drops pastry danish danish ice cream lollipop. Cake brownie pudding donut chocolate. Lollipop icing gummies icing cake chocolate chupa chups croissant.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ppoterala.github.io/blog/contact/</link>
+      <pubDate>Wed, 20 May 2020 14:08:40 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/contact/</guid>
+      <description>Phasellus blandit sem in eros rhoncus, sed rutrum velit cursus. Duis dignissim mi facilisis, pulvinar neque vitae, bibendum magna. contact@email.com</description>
+    </item>
+    
+    <item>
+      <title>My Worst Post</title>
+      <link>https://ppoterala.github.io/blog/posts/my-worst-post/</link>
+      <pubDate>Tue, 19 May 2020 15:59:39 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/my-worst-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget dapibus augue, ut varius nisi. Nullam a feugiat nisl, in accumsan massa. Duis mattis metus id neque condimentum molestie.</description>
+    </item>
+    
+    <item>
+      <title>My Best Post</title>
+      <link>https://ppoterala.github.io/blog/posts/my-best-post/</link>
+      <pubDate>Tue, 19 May 2020 15:59:31 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/my-best-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget dapibus augue, ut varius nisi. Nullam a feugiat nisl, in accumsan massa. Duis mattis metus id neque condimentum molestie.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://ppoterala.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Tue, 19 May 2020 15:59:10 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/my-first-post/</guid>
+      <description>Aenean porta gravida iaculis. Phasellus eget quam imperdiet, hendrerit nulla pulvinar, porttitor diam. Fusce vulputate, tellus in fermentum bibendum, arcu nisl elementum metus, eget ultricies quam libero at elit.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ppoterala.github.io/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/about/</guid>
+      <description>Hello 👋, I’m Paweł. I’m a UX/UI Designer from Poland. This page was created by me from scratch, coded using the Hugo framework. All pages are filled with placeholder texts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book on Personal Blog</title>
+    <link>https://ppoterala.github.io/blog/tags/book/</link>
+    <description>Recent content in book on Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2020 18:54:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://ppoterala.github.io/blog/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Favorite Books</title>
+      <link>https://ppoterala.github.io/blog/posts/favorite-books/</link>
+      <pubDate>Thu, 21 May 2020 18:54:08 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/favorite-books/</guid>
+      <description>Etymology Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare eu mauris ut rutrum. Vivamus elementum viverra placerat. Nulla semper id tortor sed lacinia. Phasellus auctor odio eget augue sagittis, at iaculis sem convallis.</description>
+    </item>
+    
+  </channel>
+</rss>

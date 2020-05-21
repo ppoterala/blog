@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Personal Blog</title>
+    <link>https://ppoterala.github.io/blog/tags/code/</link>
+    <description>Recent content in code on Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 15:59:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://ppoterala.github.io/blog/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Best Post</title>
+      <link>https://ppoterala.github.io/blog/posts/my-best-post/</link>
+      <pubDate>Tue, 19 May 2020 15:59:31 +0200</pubDate>
+      
+      <guid>https://ppoterala.github.io/blog/posts/my-best-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget dapibus augue, ut varius nisi. Nullam a feugiat nisl, in accumsan massa. Duis mattis metus id neque condimentum molestie.</description>
+    </item>
+    
+  </channel>
+</rss>
